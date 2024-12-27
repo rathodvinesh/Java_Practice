@@ -1,4 +1,4 @@
-package OOPS.FileHandling;
+package FileHandling;
 
 import java.io.File;
 import java.io.FileWriter;
