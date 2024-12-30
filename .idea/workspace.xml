@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/src/OOPS/FileHandling/FileHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileHandling/FileHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOPS/JDBC/MySQlConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/MySQlConnection.java" afterDir="false" />
+    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Minor changes">
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/BinaryTree/Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/BinaryTree/PreorderStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/InterfaceCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rathodvinesh"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rathodvinesh&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rathodvinesh/Practice.git",
-    "accountId": "1bb9fc11-5205-4c8a-817e-bc126f96e20e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rathodvinesh/Practice.git&quot;,
+    &quot;accountId&quot;: &quot;1bb9fc11-5205-4c8a-817e-bc126f96e20e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -46,26 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiLevel.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multiple.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SingleLevelInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StaticClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.copyConstrutor.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ratho/IdeaProjects/Practice&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ratho/IdeaProjects/Praactice/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Abstraction.executor": "Run",
+    "Application.Creation.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.InterfaceCheck.executor": "Run",
+    "Application.MultiLevel.executor": "Run",
+    "Application.Multiple.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.PreorderStack.executor": "Run",
+    "Application.SingleLevelInheritance.executor": "Run",
+    "Application.StaticClass.executor": "Run",
+    "Application.copyConstrutor.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ratho/IdeaProjects/Practice",
+    "onboarding.tips.debug.path": "C:/Users/ratho/IdeaProjects/Praactice/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="OOPS" />
@@ -93,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735307462791</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Minor changes">
+      <option name="closed" value="true" />
+      <created>1735309087094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735309087094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +123,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Minor changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
