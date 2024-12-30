@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Minor changes">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/BinaryTree/Creation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/BinaryTree/PreorderStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/InterfaceCheck.java" afterDir="false" />
+    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Binary Tree">
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/BinaryTree/HeightBT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +52,7 @@
     "Application.Abstraction.executor": "Run",
     "Application.Creation.executor": "Run",
     "Application.Encapsulation.executor": "Run",
+    "Application.HeightBT.executor": "Run",
     "Application.InterfaceCheck.executor": "Run",
     "Application.MultiLevel.executor": "Run",
     "Application.Multiple.executor": "Run",
@@ -106,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735309087094</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Binary Tree">
+      <option name="closed" value="true" />
+      <created>1735537553465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735537553465</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,7 +131,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Minor changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor changes" />
+    <MESSAGE value="Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
