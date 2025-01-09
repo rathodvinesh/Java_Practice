@@ -4,8 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Binary Tree">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/BinaryTree/HeightBT.java" afterDir="false" />
+    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Binary Operations">
+      <change afterPath="$PROJECT_DIR$/src/Advance/Aggregation/Aggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Aggregation/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Aggregation/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Composition/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Composition/Composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Composition/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Generics/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Generics/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedLists/Creation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedLists/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +60,11 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Abstraction.executor": "Run",
+    "Application.Aggregation.executor": "Run",
+    "Application.Composition.executor": "Run",
     "Application.Creation.executor": "Run",
     "Application.Encapsulation.executor": "Run",
+    "Application.Generics.executor": "Run",
     "Application.HeightBT.executor": "Run",
     "Application.InterfaceCheck.executor": "Run",
     "Application.MultiLevel.executor": "Run",
@@ -62,12 +75,14 @@
     "Application.StaticClass.executor": "Run",
     "Application.copyConstrutor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ratho/IdeaProjects/Practice",
-    "onboarding.tips.debug.path": "C:/Users/ratho/IdeaProjects/Praactice/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/ratho/IdeaProjects/Praactice/src/Main.java",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -113,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735537553465</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Binary Operations">
+      <option name="closed" value="true" />
+      <created>1735539788139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735539788139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,7 +155,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Minor changes" />
     <MESSAGE value="Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Binary Tree" />
+    <MESSAGE value="Binary Operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Operations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
