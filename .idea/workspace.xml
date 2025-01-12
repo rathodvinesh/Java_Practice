@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Binary Operations">
-      <change afterPath="$PROJECT_DIR$/src/Advance/Aggregation/Aggregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Aggregation/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Aggregation/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Composition/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Composition/Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Composition/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Generics/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Advance/Generics/Generics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedLists/Creation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedLists/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Aggre and Comp">
+      <change afterPath="$PROJECT_DIR$/src/Advance/AnonymousInnerClass/AnnInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Collection/MapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Collection/arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Collection/setEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Interfaces/FuncInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Threads/MultiThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Threads/RunnAble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Advance/Threads/thread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,19 +59,28 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Abstraction.executor": "Run",
     "Application.Aggregation.executor": "Run",
+    "Application.AnnInnerClass.executor": "Run",
     "Application.Composition.executor": "Run",
     "Application.Creation.executor": "Run",
     "Application.Encapsulation.executor": "Run",
+    "Application.FuncInterface.executor": "Run",
     "Application.Generics.executor": "Run",
     "Application.HeightBT.executor": "Run",
     "Application.InterfaceCheck.executor": "Run",
+    "Application.MapEx.executor": "Run",
     "Application.MultiLevel.executor": "Run",
+    "Application.MultiThread.executor": "Run",
     "Application.Multiple.executor": "Run",
     "Application.Polymorphism.executor": "Run",
     "Application.PreorderStack.executor": "Run",
+    "Application.RunnAble.executor": "Run",
     "Application.SingleLevelInheritance.executor": "Run",
     "Application.StaticClass.executor": "Run",
+    "Application.arrayList.executor": "Run",
     "Application.copyConstrutor.executor": "Run",
+    "Application.set.executor": "Run",
+    "Application.setEx.executor": "Run",
+    "Application.thread.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
