@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="Aggre and Comp" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rathodvinesh&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rathodvinesh/Practice.git&quot;,
+    &quot;accountId&quot;: &quot;1bb9fc11-5205-4c8a-817e-bc126f96e20e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qjuG2HHrkGBfYaDv6oizF83IPC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Abstraction.executor": "Run",
+    "Application.Aggregation.executor": "Run",
+    "Application.AnnInnerClass.executor": "Run",
+    "Application.Composition.executor": "Run",
+    "Application.Creation.executor": "Run",
+    "Application.Encapsulation.executor": "Run",
+    "Application.FuncInterface.executor": "Run",
+    "Application.Generics.executor": "Run",
+    "Application.HeightBT.executor": "Run",
+    "Application.InterfaceCheck.executor": "Run",
+    "Application.MapEx.executor": "Run",
+    "Application.MultiLevel.executor": "Run",
+    "Application.MultiThread.executor": "Run",
+    "Application.Multiple.executor": "Run",
+    "Application.Polymorphism.executor": "Run",
+    "Application.PreorderStack.executor": "Run",
+    "Application.RunnAble.executor": "Run",
+    "Application.SingleLevelInheritance.executor": "Run",
+    "Application.StaticClass.executor": "Run",
+    "Application.arrayList.executor": "Run",
+    "Application.copyConstrutor.executor": "Run",
+    "Application.set.executor": "Run",
+    "Application.setEx.executor": "Run",
+    "Application.thread.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ratho/Downloads/Java_Practice-master/Java_Practice",
+    "onboarding.tips.debug.path": "C:/Users/ratho/IdeaProjects/Praactice/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OOPS" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="{" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e42beb70-07d6-467d-bcef-c78508ff3c5f" name="Changes" comment="" />
+      <created>1735188210315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735188210315</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1735307462791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735307462791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Minor changes">
+      <option name="closed" value="true" />
+      <created>1735309087094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735309087094</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Binary Tree">
+      <option name="closed" value="true" />
+      <created>1735537553465</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735537553465</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Binary Operations">
+      <option name="closed" value="true" />
+      <created>1735539788139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735539788139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Minor changes" />
+    <MESSAGE value="Binary Tree" />
+    <MESSAGE value="Binary Operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Binary Operations" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
