@@ -48,6 +48,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Abstraction.executor": "Run",
     "Application.Aggregation.executor": "Run",
+    "Application.Anagram.executor": "Run",
     "Application.AnnInnerClass.executor": "Run",
     "Application.CharCount.executor": "Run",
     "Application.Composition.executor": "Run",
@@ -63,17 +64,20 @@
     "Application.InterfaceCheck.executor": "Run",
     "Application.Intersection.executor": "Run",
     "Application.KthLargest.executor": "Run",
+    "Application.LL.executor": "Run",
     "Application.MapEx.executor": "Run",
     "Application.MultiLevel.executor": "Run",
     "Application.MultiThread.executor": "Run",
     "Application.Multiple.executor": "Run",
     "Application.OddEve.executor": "Run",
+    "Application.PairsOfNumber.executor": "Run",
     "Application.Polymorphism.executor": "Run",
     "Application.PreorderStack.executor": "Run",
     "Application.Prime.executor": "Run",
     "Application.RightAngleNo.executor": "Run",
     "Application.RunnAble.executor": "Run",
     "Application.SingleLevelInheritance.executor": "Run",
+    "Application.SqrRoot.executor": "Run",
     "Application.StaticClass.executor": "Run",
     "Application.ValidParenthesis.executor": "Run",
     "Application.arrayList.executor": "Run",
@@ -92,7 +96,7 @@
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
