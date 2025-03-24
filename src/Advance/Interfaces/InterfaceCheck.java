@@ -1,4 +1,4 @@
-package OOPS;
+package Advance.Interfaces;
 
 interface Payment{
     void makePayment(double money);

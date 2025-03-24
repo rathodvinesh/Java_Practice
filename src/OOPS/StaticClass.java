@@ -21,5 +21,6 @@ package OOPS;
 public class StaticClass {
     public static void main(String[] args) {
         Me.age = 12;
+        Me.run();
     }
 }
